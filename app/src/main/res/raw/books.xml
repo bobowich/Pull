@@ -1,0 +1,15 @@
+<?xml Version="1.0" encoding="utf-8"?>
+<books>
+	<book name="a lonely man" id="10">
+		<page>500</page>
+		<price>10.50</price>
+	</book>
+	<book name="a lonely woman" id="11">
+		<page>501</page>
+		<price>10.60</price>
+	</book>
+	<book name="a lonely boy" id="12">
+		<page>503</page>
+		<price>10.70</price>
+	</book>
+</books>
